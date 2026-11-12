@@ -1,1 +1,1 @@
-https://GANTI-DENGAN-URL-STREAMLIT-ANDA.streamlit.app
+https://bike-sharing-dashboard-8nylcsxva456bxhnrcrn74.streamlit.app/
